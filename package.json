@@ -1,0 +1,14 @@
+{
+  "name": "net-chat",
+  "version": "0.1.0",
+  "description": "A chat client for lan",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shuhel Ahmed <Shuhel Ahmed>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.4"
+  }
+}
